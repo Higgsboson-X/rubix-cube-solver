@@ -33,13 +33,13 @@ Then an opencv window using PC camera should appear. The letter on the left-top 
 ### View Initial State
 When all six faces are recorded, a rubik's cube in the recorded face should be displayed in a matplotlib figure. Confirm that the state is correct and close the window.
 
-![confirm state](https://github.com/Higgsboson-X/rubix-cube-solver/blob/master/images/2.png "Confirm State")
+![confirm state](https://github.com/Higgsboson-X/rubix-cube-solver/blob/master/images/2.PNG "Confirm State")
 
 ### Solve
 Then the animation of solving the rubik's cube should appear, and it stops when the cube is solved. The following figures show a screenshot of the solving animation and the final solved state.
 
-![solving](https://github.com/Higgsboson-X/rubix-cube-solver/blob/master/images/3.png "Solving")
-![final](https://github.com/Higgsboson-X/rubix-cube-solver/blob/master/images/4.png "Final")
+![solving](https://github.com/Higgsboson-X/rubix-cube-solver/blob/master/images/3.PNG "Solving")
+![final](https://github.com/Higgsboson-X/rubix-cube-solver/blob/master/images/4.PNG "Final")
 
 ## Notes
 1. The current color recognition is crude and is significantly influenced by conditions of the environment, mainly lighting conditions.
